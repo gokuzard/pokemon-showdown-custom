@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/mydex/learnsets.ts"],
+  "sourcesContent": ["export const Learnsets: {[k: string]: ModdedLearnsetData} = {\r\n  fakemonalpha: {\r\n    learnset: {\r\n      flamethrower: [\"9L1\"],\r\n      dragonclaw: [\"9L1\"],\r\n      protect: [\"9L1\"],\r\n      roost: [\"9L1\"],\r\n    },\r\n  },\r\n};\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,YAA+C;AAAA,EAC1D,cAAc;AAAA,IACZ,UAAU;AAAA,MACR,cAAc,CAAC,KAAK;AAAA,MACpB,YAAY,CAAC,KAAK;AAAA,MAClB,SAAS,CAAC,KAAK;AAAA,MACf,OAAO,CAAC,KAAK;AAAA,IACf;AAAA,EACF;AACF;",
+  "names": []
+}

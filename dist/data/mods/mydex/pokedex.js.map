@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/mydex/pokedex.ts"],
+  "sourcesContent": ["export const Pokedex = {\r\n  fakemonalpha: {\r\n    num: -1,\r\n    name: \"Fakemon Alpha\",\r\n    types: [\"Fire\"],\r\n    baseStats: {\r\n      hp: 50,\r\n      atk: 50,\r\n      def: 50,\r\n      spa: 50,\r\n      spd: 50,\r\n      spe: 50,\r\n    },\r\n    abilities: {0: \"Blaze\"},\r\n  },\r\n};\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,UAAU;AAAA,EACrB,cAAc;AAAA,IACZ,KAAK;AAAA,IACL,MAAM;AAAA,IACN,OAAO,CAAC,MAAM;AAAA,IACd,WAAW;AAAA,MACT,IAAI;AAAA,MACJ,KAAK;AAAA,MACL,KAAK;AAAA,MACL,KAAK;AAAA,MACL,KAAK;AAAA,MACL,KAAK;AAAA,IACP;AAAA,IACA,WAAW,EAAC,GAAG,QAAO;AAAA,EACxB;AACF;",
+  "names": []
+}

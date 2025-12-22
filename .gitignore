@@ -1,0 +1,7 @@
+﻿node_modules/
+logs/
+config/config.js
+config/usergroups.csv
+*.pid
+.DS_Store
+Thumbs.db
