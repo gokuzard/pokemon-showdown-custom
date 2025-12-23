@@ -4960,7 +4960,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		types: ["Psychic", "Flying"],
 		gender: "N",
 		baseStats: { hp: 106, atk: 90, def: 154, spa: 90, spd: 154, spe: 110 },
-		abilities: { 0: "Pressure", H: "Multiscale" },
+		abilities: { 0: "Drizzle", H: "Multiscale" },
 		heightm: 5.2,
 		weightkg: 216,
 		color: "White",
