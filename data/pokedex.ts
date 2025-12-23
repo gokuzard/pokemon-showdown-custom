@@ -7608,7 +7608,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		baseForme: "Plant",
 		types: ["Bug"],
 		baseStats: { hp: 40, atk: 29, def: 45, spa: 29, spd: 45, spe: 36 },
-		abilities: { 0: "Shed Skin", H: "Overcoat" },
+		abilities: { 0: "Technician", H: "Overcoat" },
 		heightm: 0.2,
 		weightkg: 3.4,
 		color: "Green",
